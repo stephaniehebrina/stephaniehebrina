@@ -14,6 +14,9 @@ Enjoy turning data into insights and building simple, user-friendly interfaces.
 ---
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=stephaniehebrina&show_icons=true&hide_title=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stephaniehebrina&layout=compact)
 
+---
+
+📫 **Connect with me**  
+[LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/stephaniehebrina/)) • [Portfolio](#)
