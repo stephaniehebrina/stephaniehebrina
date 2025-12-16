@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi, I'm Stephanie 👋
 
-<!--
-**stephaniehebrina/stephaniehebrina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data-focused IT student with an interest in analytics and front-end development.  
+Enjoy turning data into insights and building simple, user-friendly interfaces.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech Stack
+- **Data:** Python, SQL, Pandas
+- **Visualization:** Looker, Matplotlib, Tableau
+- **Front-End:** HTML, CSS, JavaScript
+- **Tools:** Git, BigQuery, Figma
+
+---
+
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=stephaniehebrina&show_icons=true&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stephaniehebrina&layout=compact)
+
