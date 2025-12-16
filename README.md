@@ -19,4 +19,4 @@ Enjoy turning data into insights and building simple, user-friendly interfaces.
 ---
 
 📫 **Connect with me**  
-[LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/stephaniehebrina/)) • [Portfolio](#)
+[LinkedIn](https://www.linkedin.com/in/stephaniehebrina/)
